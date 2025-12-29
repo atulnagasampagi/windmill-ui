@@ -4,7 +4,7 @@ QT += location
 
 QT += network
 
-LIBS += -L$$PWD/libs/ -lcrypto -lssl
+LIBS += -lcrypto -lssl
 
 DESTDIR += $$PWD
 
