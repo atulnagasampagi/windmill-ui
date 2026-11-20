@@ -51,6 +51,5 @@
         <file>Images/logout.png</file>
         <file>Images/show.png</file>
         <file>RegisterPage.qml</file>
-        <file>Icons.qml</file>
     </qresource>
 </RCC>
